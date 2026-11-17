@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Draft pencil</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M57 171 L164 32 Q171 24 180 31 L208 53 Q216 60 207 70 L101 208 L43 229 Z" fill="#FFFFFF"/>
+<path d="M72 153 L94 168 L196 36 L180 25 Q171 20 164 32 Z" fill="#FFFFFF"/>
+<path d="M57 171 L101 208 M48 213 L61 220 L43 229 Z" fill="#FFFFFF"/>
+<path d="M85 189 L192 51 M157 44 L199 77" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M57 171 L164 32 Q171 24 180 31 L208 53 Q216 60 207 70 L101 208 L43 229 Z" fill="#F5E1E7"/>
+<path d="M72 153 L94 168 L196 36 L180 25 Q171 20 164 32 Z" fill="#CD8292"/>
+<path d="M57 171 L101 208 M48 213 L61 220 L43 229 Z" fill="#242424"/>
+<path d="M85 189 L192 51 M157 44 L199 77" fill="none"/></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Open notebook</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M28 49 Q78 34 126 62 Q176 34 228 48 L225 209 Q174 194 128 219 Q77 194 31 209 Z" fill="#FFFFFF"/>
+<path d="M128 62 Q176 34 228 48 L225 209 Q174 194 128 219 Z" fill="#FFFFFF"/>
+<path d="M128 64 L128 219 M47 77 Q78 68 107 82 M48 104 Q77 96 107 109 M49 132 Q77 124 106 137 M151 81 Q176 69 207 77 M151 108 Q177 97 206 104 M151 137 Q177 125 205 132" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M28 49 Q78 34 126 62 Q176 34 228 48 L225 209 Q174 194 128 219 Q77 194 31 209 Z" fill="#F5E1E7"/>
+<path d="M128 62 Q176 34 228 48 L225 209 Q174 194 128 219 Z" fill="#CD8292"/>
+<path d="M128 64 L128 219 M47 77 Q78 68 107 82 M48 104 Q77 96 107 109 M49 132 Q77 124 106 137 M151 81 Q176 69 207 77 M151 108 Q177 97 206 104 M151 137 Q177 125 205 132" fill="none"/></g>
+</svg>

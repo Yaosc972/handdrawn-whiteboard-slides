@@ -1,35 +1,39 @@
-# 本地 Pictogram 贴纸
+# 内置物件贴纸 / Bundled object stickers
 
-## 来源边界
+`assets/stickers/` 包含 12 张为本项目独立绘制的 SVG，采用 MIT 许可。透明背景、近黑粗线、粉色深浅两档和白色模切边。它们是可以直接使用和修改的资源，不需要另装贴纸库。
 
-`claude-whiteboard` 属于 baoyu-design 的混合许可内容。其 NOTICE 说明：编辑器中来自 Anthropic 的素材不适用该项目的 MIT 许可。当前 Skill 只提供新编写的工作流和读取适配器，不包含上游图形路径、字体、编辑器、截图或导出的贴纸。
+| ID | 中文 | English | 用途 |
+|---|---|---|---|
+| `lightbulb` | 灵感灯泡 | Idea bulb | 想法与发现 |
+| `magnifier` | 查证放大镜 | Magnifier | 观察与证据 |
+| `puzzle` | 组合拼图 | Puzzle pieces | 复用与适配 |
+| `paper-plane` | 试飞纸飞机 | Paper plane | 原型与首次尝试 |
+| `pencil` | 草稿铅笔 | Draft pencil | 写作与修改 |
+| `compass` | 方向罗盘 | Compass | 方向与取舍 |
+| `book` | 展开的笔记 | Open notebook | 理解与学习 |
+| `checklist` | 完成清单 | Checklist | 检查与交付 |
+| `flask` | 验证烧瓶 | Experiment flask | 假设与实验 |
+| `seedling` | 生长幼苗 | Seedling | 维护与持续改进 |
+| `chat` | 讨论气泡 | Discussion bubble | 反馈与沟通 |
+| `layers` | 系统层次 | System layers | 架构与关系 |
 
-来源与说明：
+完整机器可读目录：`assets/stickers/manifest.json`。可离线打开 `assets/stickers/index.html` 浏览。
 
-- <https://github.com/JimLiu/baoyu-design>
-- <https://github.com/JimLiu/baoyu-design/blob/main/NOTICE.md>
+## 使用与改色
 
-脚本读取用户本机已有的安装，不下载素材。生成文件可用于当前已授权的文稿制作；文稿或素材库的进一步分发仍按各自适用条款处理。不要将本地导出的图形加入 Skill 仓库。
+直接把 SVG 插入支持该格式的演示工具，保持比例。需要 PNG 的工具可以用现有 SVG 渲染工具转换。原图画布为 256 × 256，默认显示尺寸 512 × 512。
 
-## 脚本用法
-
-需要 Node.js 22 或更新版本，不需要 npm 安装。以下 `scripts/` 相对本 Skill 目录。
+以下命令相对 Skill 目录执行；输出目录相对当前工作目录。Node.js 22+ 即可，不需要 npm 安装或网络。
 
 ```bash
 node scripts/render-stickers.mjs --list
 node scripts/render-stickers.mjs --icons magnifier,puzzle --output work/stickers
-node scripts/render-stickers.mjs --source /path/to/claude-whiteboard --icons paper-plane --output work/stickers
-node scripts/render-stickers.mjs --icons lightbulb --accent '#CD8292' --pale '#F5E1E7' --ink '#242424' --output work/stickers
+node scripts/render-stickers.mjs --icons all --output work/stickers
+node scripts/render-stickers.mjs --icons lightbulb --accent '#649AB6' --pale '#E8F1F7' --ink '#242424' --output work/blue-stickers
 ```
 
-`--source` 接受 Skill 目录或其中的 `scripts/editor/artifact-type/app.js`。不传时，在 `CODEX_HOME` 对应的缓存、`~/.codex` 缓存和常见 Skill 目录中查找，优先选择缓存中的最新版本。
+脚本不修改原始素材。未知名称或无效颜色会在输出前报错，避免留下部分导出。更换主题时同步调整幻灯片强调色，白色边缘保持白色。
 
-`--list` 只列可用名称。默认输出四个物件：灯泡、放大镜、拼图和纸飞机。显式选择其他物件时，以列表实际存在的名称为准。
+## English
 
-SVG 保留透明背景和白色模切边，只有贴纸自身的色块。默认采用本 Skill 的粉色深浅两档，原始路径与比例不变。支持 SVG 的幻灯片工具可直接插入；需要 PNG 时，用当前环境可用的 SVG 渲染工具转换，不改变比例。
-
-## 兼容性
-
-适配器针对包含 `STICKER_PACK_ART_IDS` 与 `PICTOGRAM_PATHS` 的本地编辑器数据模块。只在受限的 Node VM 中初始化该数据模块，不运行编辑器，不访问账号、网络或浏览器。
-
-如果上游改了打包方式或字段，脚本会明确失败，不输出假贴纸。先检查用户给的安装目录和当前上游结构，再做有依据的窄范围适配；不要复制整个编辑器来兜底。
+All 12 SVG stickers are original artwork bundled with this repository under the MIT license. Use the files directly, or export a selection with the dependency-free Node.js script above. The script can recolor the accent, pale fill and ink while preserving the white cut edge and original geometry. It never downloads assets or modifies the source folder.

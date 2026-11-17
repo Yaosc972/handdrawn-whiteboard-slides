@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">System layers</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M31 165 L128 118 L225 165 L128 218 Z" fill="#FFFFFF"/>
+<path d="M31 117 L128 69 L225 117 L128 171 Z" fill="#FFFFFF"/>
+<path d="M31 70 L128 24 L225 70 L128 122 Z" fill="#FFFFFF"/>
+<path d="M60 70 L127 38 L194 70 M58 165 L126 202" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M31 165 L128 118 L225 165 L128 218 Z" fill="#F5E1E7"/>
+<path d="M31 117 L128 69 L225 117 L128 171 Z" fill="#CD8292"/>
+<path d="M31 70 L128 24 L225 70 L128 122 Z" fill="#F5E1E7"/>
+<path d="M60 70 L127 38 L194 70 M58 165 L126 202" fill="none"/></g>
+</svg>

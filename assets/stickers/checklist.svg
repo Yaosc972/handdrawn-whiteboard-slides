@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Completion list</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M60 41 Q54 41 54 51 L54 223 L206 223 L206 51 Q206 41 196 41 Z" fill="#FFFFFF"/>
+<path d="M98 28 L116 28 Q128 12 142 28 L161 28 L161 58 L98 58 Z" fill="#FFFFFF"/>
+<path d="M75 92 L84 101 L100 80 M75 137 L84 146 L100 125 M75 181 L84 190 L100 169 M120 92 L180 92 M120 137 L178 137 M120 181 L177 181" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M60 41 Q54 41 54 51 L54 223 L206 223 L206 51 Q206 41 196 41 Z" fill="#F5E1E7"/>
+<path d="M98 28 L116 28 Q128 12 142 28 L161 28 L161 58 L98 58 Z" fill="#CD8292"/>
+<path d="M75 92 L84 101 L100 80 M75 137 L84 146 L100 125 M75 181 L84 190 L100 169 M120 92 L180 92 M120 137 L178 137 M120 181 L177 181" fill="none"/></g>
+</svg>

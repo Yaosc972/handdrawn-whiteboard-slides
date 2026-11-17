@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "license": "MIT",
+  "palette": {
+    "ink": "#242424",
+    "accent": "#CD8292",
+    "pale": "#F5E1E7"
+  },
+  "stickers": [
+    {
+      "id": "lightbulb",
+      "name_zh": "灵感灯泡",
+      "name_en": "Idea bulb",
+      "use": "Ideas and discoveries",
+      "file": "lightbulb.svg"
+    },
+    {
+      "id": "magnifier",
+      "name_zh": "查证放大镜",
+      "name_en": "Research lens",
+      "use": "Questions and evidence",
+      "file": "magnifier.svg"
+    },
+    {
+      "id": "puzzle",
+      "name_zh": "组合拼图",
+      "name_en": "Puzzle pair",
+      "use": "Reuse and composition",
+      "file": "puzzle.svg"
+    },
+    {
+      "id": "paper-plane",
+      "name_zh": "试飞纸飞机",
+      "name_en": "Test flight",
+      "use": "Prototypes and first attempts",
+      "file": "paper-plane.svg"
+    },
+    {
+      "id": "pencil",
+      "name_zh": "草稿铅笔",
+      "name_en": "Draft pencil",
+      "use": "Writing and revision",
+      "file": "pencil.svg"
+    },
+    {
+      "id": "compass",
+      "name_zh": "方向罗盘",
+      "name_en": "Direction compass",
+      "use": "Decisions and priorities",
+      "file": "compass.svg"
+    },
+    {
+      "id": "book",
+      "name_zh": "展开的笔记",
+      "name_en": "Open notebook",
+      "use": "Understanding and learning",
+      "file": "book.svg"
+    },
+    {
+      "id": "checklist",
+      "name_zh": "完成清单",
+      "name_en": "Completion list",
+      "use": "Checks and delivery",
+      "file": "checklist.svg"
+    },
+    {
+      "id": "flask",
+      "name_zh": "验证烧瓶",
+      "name_en": "Experiment flask",
+      "use": "Hypotheses and experiments",
+      "file": "flask.svg"
+    },
+    {
+      "id": "seedling",
+      "name_zh": "生长幼苗",
+      "name_en": "Growing seedling",
+      "use": "Learning and maintenance",
+      "file": "seedling.svg"
+    },
+    {
+      "id": "chat",
+      "name_zh": "讨论气泡",
+      "name_en": "Discussion bubble",
+      "use": "Feedback and conversation",
+      "file": "chat.svg"
+    },
+    {
+      "id": "layers",
+      "name_zh": "系统层次",
+      "name_en": "System layers",
+      "use": "Architecture and relationships",
+      "file": "layers.svg"
+    }
+  ]
+}

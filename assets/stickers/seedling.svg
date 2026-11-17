@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Growing seedling</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M72 161 L189 161 L174 226 L85 226 Z" fill="#FFFFFF"/>
+<path d="M65 146 L195 146 L195 167 L65 167 Z" fill="#FFFFFF"/>
+<path d="M130 146 Q130 99 116 78" fill="none"/>
+<path d="M123 105 Q67 109 49 49 Q106 38 123 105 Z" fill="#FFFFFF"/>
+<path d="M130 120 Q127 59 204 41 Q213 98 130 120 Z" fill="#FFFFFF"/>
+<path d="M81 70 L118 101 M167 78 L132 117" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M72 161 L189 161 L174 226 L85 226 Z" fill="#CD8292"/>
+<path d="M65 146 L195 146 L195 167 L65 167 Z" fill="#F5E1E7"/>
+<path d="M130 146 Q130 99 116 78" fill="none"/>
+<path d="M123 105 Q67 109 49 49 Q106 38 123 105 Z" fill="#F5E1E7"/>
+<path d="M130 120 Q127 59 204 41 Q213 98 130 120 Z" fill="#CD8292"/>
+<path d="M81 70 L118 101 M167 78 L132 117" fill="none"/></g>
+</svg>

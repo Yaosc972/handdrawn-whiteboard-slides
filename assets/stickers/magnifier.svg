@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Research lens</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M150 145 L174 145 L224 198 Q234 210 222 223 Q211 234 199 223 L148 173 Z" fill="#FFFFFF"/>
+<circle cx="105" cy="104" r="70" fill="#FFFFFF"/>
+<circle cx="105" cy="104" r="54" fill="none"/>
+<path d="M71 100 Q72 77 96 70 M166 165 L209 208" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M150 145 L174 145 L224 198 Q234 210 222 223 Q211 234 199 223 L148 173 Z" fill="#CD8292"/>
+<circle cx="105" cy="104" r="70" fill="#F5E1E7"/>
+<circle cx="105" cy="104" r="54" fill="none"/>
+<path d="M71 100 Q72 77 96 70 M166 165 L209 208" fill="none"/></g>
+</svg>

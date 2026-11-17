@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Test flight</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M25 102 L230 34 L167 224 L124 153 L76 172 L85 132 Z" fill="#FFFFFF"/>
+<path d="M85 132 L230 34 L124 153 L76 172 Z" fill="#FFFFFF"/>
+<path d="M25 102 L124 153 M124 153 L230 34 M85 132 L76 172" fill="none"/>
+<path d="M28 181 Q44 194 61 187 M26 205 Q45 221 70 210" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M25 102 L230 34 L167 224 L124 153 L76 172 L85 132 Z" fill="#F5E1E7"/>
+<path d="M85 132 L230 34 L124 153 L76 172 Z" fill="#CD8292"/>
+<path d="M25 102 L124 153 M124 153 L230 34 M85 132 L76 172" fill="none"/>
+<path d="M28 181 Q44 194 61 187 M26 205 Q45 221 70 210" fill="none"/></g>
+</svg>

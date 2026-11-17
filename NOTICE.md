@@ -1,14 +1,11 @@
-# 来源说明
+# Asset and source notes / 素材与来源说明
 
-本仓库的 Skill 说明、布局建议与本地适配脚本，是围绕用户选定的演示方法新编写的内容。
+The skill instructions, scripts, original SVG sticker pack and example presentations in this repository are provided under the MIT license in [LICENSE](LICENSE).
 
-可选的 Pictogram 素材来自用户本机已安装的 baoyu-whiteboard / claude-whiteboard。上游 baoyu-design 的 NOTICE 明确说明，其中来自 Anthropic 的编辑器与素材内容不适用项目的 MIT 许可。本仓库没有打包这些内容，也不为它们重新授权。
+The SVG stickers were drawn specifically for this project with code assistance. They do not contain traced, extracted or bundled third-party artwork. The examples use original instructional text and fictional scenarios, with no private enterprise source materials or reported business results.
 
-本地适配器只读取安装中的图形数据，并按用户任务生成 SVG 文件。生成的素材和含有这些素材的文稿，应按其适用条款使用与分发。
+Font files are not included. The examples use fonts already installed on the viewer's device. Install and use any additional fonts under their own licenses.
 
-上游来源与许可说明：
+本仓库的 Skill 说明、脚本、原创 SVG 贴纸和示例演示文稿，均采用 [MIT 许可](LICENSE)。贴纸为本项目借助代码工具独立绘制，没有打包或描摹第三方图形。示例使用原创教学内容和虚构场景，不含企业内部材料或真实业务成效数据。
 
-- https://github.com/JimLiu/baoyu-design
-- https://github.com/JimLiu/baoyu-design/blob/main/NOTICE.md
-
-本仓库没有包含本次会话使用的企业应用内容、链接、个人路径、云端文稿标识或示例文稿。
+仓库不包含字体文件。示例调用设备已有字体；自行安装的字体按其自身许可使用。

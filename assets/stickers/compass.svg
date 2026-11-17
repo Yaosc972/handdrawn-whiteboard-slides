@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Direction compass</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><circle cx="128" cy="133" r="89" fill="#FFFFFF"/>
+<path d="M109 44 L109 27 Q128 12 147 27 L147 44" fill="none"/>
+<circle cx="128" cy="133" r="71" fill="none"/>
+<path d="M161 75 L143 145 L96 190 L113 120 Z" fill="#FFFFFF"/>
+<path d="M113 120 L143 145 L96 190 Z" fill="#FFFFFF"/>
+<circle cx="128" cy="133" r="9" fill="#FFFFFF"/>
+<path d="M128 70 L128 80 M128 185 L128 195 M66 133 L76 133 M180 133 L190 133" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><circle cx="128" cy="133" r="89" fill="#F5E1E7"/>
+<path d="M109 44 L109 27 Q128 12 147 27 L147 44" fill="none"/>
+<circle cx="128" cy="133" r="71" fill="none"/>
+<path d="M161 75 L143 145 L96 190 L113 120 Z" fill="#CD8292"/>
+<path d="M113 120 L143 145 L96 190 Z" fill="#F5E1E7"/>
+<circle cx="128" cy="133" r="9" fill="#242424"/>
+<path d="M128 70 L128 80 M128 185 L128 195 M66 133 L76 133 M180 133 L190 133" fill="none"/></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Experiment flask</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M99 28 L156 28 L156 43 L147 43 L147 109 L206 204 Q215 222 194 225 L62 225 Q40 224 51 205 L108 109 L108 43 L99 43 Z" fill="#FFFFFF"/>
+<path d="M81 159 Q105 147 128 161 Q153 175 177 158 L206 204 Q215 222 194 225 L62 225 Q40 224 51 205 Z" fill="#FFFFFF"/>
+<circle cx="111" cy="191" r="8" fill="#FFFFFF"/>
+<circle cx="148" cy="137" r="6" fill="#FFFFFF"/>
+<path d="M124 56 L124 97 M69 204 L82 182" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M99 28 L156 28 L156 43 L147 43 L147 109 L206 204 Q215 222 194 225 L62 225 Q40 224 51 205 L108 109 L108 43 L99 43 Z" fill="#F5E1E7"/>
+<path d="M81 159 Q105 147 128 161 Q153 175 177 158 L206 204 Q215 222 194 225 L62 225 Q40 224 51 205 Z" fill="#CD8292"/>
+<circle cx="111" cy="191" r="8" fill="#F5E1E7"/>
+<circle cx="148" cy="137" r="6" fill="#CD8292"/>
+<path d="M124 56 L124 97 M69 204 L82 182" fill="none"/></g>
+</svg>

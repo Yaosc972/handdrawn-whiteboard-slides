@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Puzzle pair</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M29 56 Q29 49 38 50 L88 50 Q83 31 102 30 Q124 30 119 50 L159 50 L159 94 Q177 88 179 108 Q179 128 159 123 L159 158 L114 158 Q121 177 101 179 Q80 177 88 158 L30 158 Z" fill="#FFFFFF"/>
+<path d="M104 187 L143 187 Q136 168 156 167 Q175 168 170 187 L221 187 L221 226 L173 226 Q179 208 158 207 Q138 208 145 226 L104 226 Z" fill="#FFFFFF"/>
+<path d="M49 72 L63 72 M48 88 L77 88" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M29 56 Q29 49 38 50 L88 50 Q83 31 102 30 Q124 30 119 50 L159 50 L159 94 Q177 88 179 108 Q179 128 159 123 L159 158 L114 158 Q121 177 101 179 Q80 177 88 158 L30 158 Z" fill="#F5E1E7"/>
+<path d="M104 187 L143 187 Q136 168 156 167 Q175 168 170 187 L221 187 L221 226 L173 226 Q179 208 158 207 Q138 208 145 226 L104 226 Z" fill="#CD8292"/>
+<path d="M49 72 L63 72 M48 88 L77 88" fill="none"/></g>
+</svg>

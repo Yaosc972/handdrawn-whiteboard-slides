@@ -1,0 +1,13 @@
+{
+  "name": "handdrawn-whiteboard-slides",
+  "version": "1.0.0",
+  "description": "A Codex skill with original SVG stickers and bilingual whiteboard presentation examples.",
+  "type": "module",
+  "license": "MIT",
+  "repository": "github:Yaosc972/handdrawn-whiteboard-slides",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test tests/render-stickers.test.mjs",
+    "check": "node scripts/check-repo.mjs"
+  }
+}

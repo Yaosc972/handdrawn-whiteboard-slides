@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Idea bulb</title>
+  <g stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"><path d="M89 164 C88 146 55 131 55 93 C55 50 85 26 128 26 C171 26 201 52 201 93 C201 128 171 146 168 165 Z" fill="#FFFFFF"/>
+<path d="M91 165 Q128 158 167 165 L164 205 Q127 215 94 205 Z" fill="#FFFFFF"/>
+<path d="M106 215 Q128 231 151 214" fill="none"/>
+<path d="M112 159 L110 112 Q107 98 97 104 Q92 119 110 122 L144 121 Q165 116 156 104 Q144 97 143 114 L141 159" fill="none"/>
+<path d="M74 75 Q83 53 104 48 M94 182 L165 180 M96 197 L164 195" fill="none"/></g>
+  <g stroke="#242424" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M89 164 C88 146 55 131 55 93 C55 50 85 26 128 26 C171 26 201 52 201 93 C201 128 171 146 168 165 Z" fill="#F5E1E7"/>
+<path d="M91 165 Q128 158 167 165 L164 205 Q127 215 94 205 Z" fill="#CD8292"/>
+<path d="M106 215 Q128 231 151 214" fill="none"/>
+<path d="M112 159 L110 112 Q107 98 97 104 Q92 119 110 122 L144 121 Q165 116 156 104 Q144 97 143 114 L141 159" fill="none"/>
+<path d="M74 75 Q83 53 104 48 M94 182 L165 180 M96 197 L164 195" fill="none"/></g>
+</svg>
